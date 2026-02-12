@@ -1,6 +1,5 @@
 
-Secure Patient Data Platform on Google Cloud (Capstone)Secure Patient Data Platform on Google Cloud (Capstone)
-Jul 2025 - Aug 2025Jul 2025 - Aug 2025
+Secure Patient Data Platform on Google Cloud (Capstone)
 
         Grade: A (93/100) | Distinguished Capstone Project
         Architected a secure, HIPAA-aligned cloud solution to address UN SDG Goal 3 (Good Health & Well-being), demonstrating how cloud-native security can protect sensitive patient health information (PHI) at scale.
